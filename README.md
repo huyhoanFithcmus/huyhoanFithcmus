@@ -40,12 +40,11 @@
 <p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huyhoan652002&show_icons=true&locale=en&layout=compact"  alt="huyhoan652002" />
-
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=huyhoan652002&show_icons=true&locale=en"  alt="huyhoan652002" />
 </p>
 
 <p>&nbsp;
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=huyhoan652002&show_icons=true&locale=en"  alt="huyhoan652002" /></p>
-<p>
+
 </p>
 
 <h1 align="center">👯 My Playground 👯</h1>
