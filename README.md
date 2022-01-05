@@ -1,4 +1,4 @@
-### Hi Everyone 👋
+<h1  align="center">👋 Hi Everyone👋</h1>
 
 - 🔭 I’m a student at Ho Chi Minh University of Science
 - 🌱 I’m learning and researching about software and AI
