@@ -45,9 +45,11 @@
 
 <p>&nbsp;
  
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=huyhoan652002&show_icons=true&locale=en"  alt="huyhoan652002" />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=huyhoan652002&show_icons=true&theme=radical"  alt="huyhoan652002" />
  
 </p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">👯 My Playground 👯</h1>
 
