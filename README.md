@@ -39,7 +39,7 @@
 <h3 align="left">Featured: </h3>
 <p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huyhoan652002&show_icons=true&locale=en&layout=compact"  alt="tranphuongdinh" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huyhoan652002&show_icons=true&locale=en&layout=compact"  alt="huyhoan652002" />
 
 </p>
 
