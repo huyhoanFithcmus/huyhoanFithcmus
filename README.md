@@ -38,9 +38,9 @@
 
 <h3 align="left">Featured: </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyhoan652002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huyhoan652002&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyhoan652002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
