@@ -38,9 +38,9 @@
 
 <h3 align="left">Featured: </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huyhoan652002&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huyhoanFithcmus&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyhoan652002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyhoanFithcmus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h1 align="center">👯 My Playground 👯</h1>
@@ -56,6 +56,7 @@
 <p align="center">
   <img width="1000" height="400" src="https://thumbs.gfycat.com/EnragedGoodEmeraldtreeskink-size_restricted.gif">
 </p>
+
 <!--
 **huyhoan652002/huyhoan652002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
