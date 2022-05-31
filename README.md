@@ -6,7 +6,7 @@
 - 😄 I also learn online at [CS50](https://cs50.harvard.edu/college/2022/spring/) on [EDX](https://www.edx.org)
 - 🌱 I’m learning and researching about software and AI
 - 📫 How to reach me: **huyhoan652002@gmail.com** or **20127166@student.hcmus.edu.vn**
-- ⚡ Check out my portfolio at: https://huyhoan652002.github.io/
+- ⚡ Check out my portfolio at: https://huyhoanfithcmus.github.io
 
 <h3  align="left">Connect with me:</h3>
 <p align="left"><a  href="https://www.facebook.com/hoan.nguyenhuy.ITUS/"  target="blank"><img src="https://img.icons8.com/bubbles/64/facebook-new.png"/></a>&nbsp;<a  href="https://www.linkedin.com/in/huyhoan652002/"  target="blank"><img src="https://img.icons8.com/bubbles/64/linkedin.png"/></a>
