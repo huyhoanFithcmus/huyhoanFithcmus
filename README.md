@@ -27,6 +27,10 @@
   
 </p>
 
+<h3 align="left">Trophies:  </h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huyhoanFithcmus" alt="huyhoanFithcmus" /></a> </p>
+
 <h3 align="left">Editor/IDE used: </h3>
 
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/45px-Visual_Studio_Code_1.35_icon.svg.png"/>
@@ -41,6 +45,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huyhoanFithcmus&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyhoanFithcmus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h1 align="center">👯 My Playground 👯</h1>
