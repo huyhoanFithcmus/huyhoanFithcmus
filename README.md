@@ -48,23 +48,6 @@
 
 
 
-<h1 align="center">👯 My Playground 👯</h1>
-
-<p align="center">
-  <img width="1000" height="400" src="https://i.pinimg.com/originals/6c/a3/3c/6ca33c43ece1db49b8534379e26cdbdc.gif">
-</p>
-
-<p align="center">
-  <img width="1000" height="400" src="https://thumbs.gfycat.com/WeakCoarseFawn-size_restricted.gif">
-</p>
-
-<p align="center">
-  <img width="1000" height="400" src="https://thumbs.gfycat.com/EnragedGoodEmeraldtreeskink-size_restricted.gif">
-</p>
-
-<!--
-**huyhoan652002/huyhoan652002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently a student at Ho Chi Minh University of Science
