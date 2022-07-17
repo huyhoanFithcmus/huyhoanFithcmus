@@ -46,16 +46,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyhoanFithcmus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently a student at Ho Chi Minh University of Science
-- 🌱 I’m currently learning and researching about software and AI
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: huyhoan652002@gmail.com or 20127166@student.hcmus.edu.vn
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
