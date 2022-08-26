@@ -1,4 +1,3 @@
-<p align="center"> <img src="https://nguyenhuyhoan652002.github.io/assets/image/hoan.jpg" , width = 200, border-radius: 50%/>
 <h1  align="center">👋 Hi Everyone, my name is Hoan👋</h1>
 <p  align="center"> <img  src="https://komarev.com/ghpvc/?username=huyhoan652002&label=Profile%20views&color=129e00&style=plastic"  alt="huyhoan652002" /> </p>
 
