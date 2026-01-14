@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
   
   <br/>
@@ -31,7 +31,7 @@
 
 ---
 
-<h3 align="center">👨‍💻 About Me</h3>
+<h3 align="">👨‍💻 About Me</h3>
 
 <p align="">
   🎓 <b>Alumni:</b> <a href="https://hcmus.edu.vn">Ho Chi Minh University of Science (HCMUS)</a><br>
@@ -52,27 +52,24 @@
 
 <br/>
 
+---
+
 <h3 align="">🏆 Achievements</h3>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=huyhoanFithcmus&theme=gruvbox&no-frame=true&column=7&margin-w=15&margin-h=15" alt="huyhoanFithcmus" />
-  </a>
+
+<div align="">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huyhoanFithcmus&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="streak graph" />
 </div>
 
-<br/>
 
-<div align="center">
+<br/>
+<div align="">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huyhoanFithcmus&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0d1117" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huyhoanFithcmus&layout=compact&theme=gruvbox&hide_border=true&bg_color=0d1117&langs_count=8"/>
   </a>
 </div>
-
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huyhoanFithcmus&theme=gruvbox&hide_border=true&background=0D1117&fire=FF9F43" alt="streak graph" />
-</div>
 
 ---
 
