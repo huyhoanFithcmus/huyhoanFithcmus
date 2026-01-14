@@ -31,9 +31,9 @@
 
 ---
 
-<h3 align="">👨‍💻 About Me</h3>
+<h3 align="center">👨‍💻 About Me</h3>
 
-<p align="">
+<p align="center">
   🎓 <b>Alumni:</b> <a href="https://hcmus.edu.vn">Ho Chi Minh University of Science (HCMUS)</a><br>
   🏫 <b>Current:</b> Master's Student at <b>University of Information Technology (UIT)</b><br>
   🔭 <b>Focus:</b> Artificial Intelligence, Computer Vision, & Generative AI.<br>
@@ -43,8 +43,8 @@
 
 ---
 
-<h3 align="">🛠️ Tech Stack & Tools</h3>
-<div align="">
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,java,aws,docker,git,vscode,linux,mysql,mongodb,react,nextjs&perline=10&theme=dark" />
   </a>
@@ -54,15 +54,15 @@
 
 ---
 
-<h3 align="">🏆 Achievements</h3>
+<h3 align="center">🏆 Achievements</h3>
 
-<div align="">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huyhoanFithcmus&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="streak graph" />
 </div>
 
 
 <br/>
-<div align="">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huyhoanFithcmus&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0d1117" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huyhoanFithcmus&layout=compact&theme=gruvbox&hide_border=true&bg_color=0d1117&langs_count=8"/>
