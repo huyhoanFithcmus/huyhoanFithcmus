@@ -18,7 +18,7 @@
   <a href="mailto:huyhoan652002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://huyhoanfithcmus.github.io">
+  <a href="https://huyhoanCShcmmuit.github.io">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
@@ -26,7 +26,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=huyhoanFithcmus&label=PROFILE+VIEWS&style=flat-square&color=fabd2f" alt="huyhoanFithcmus" />
+  <img src="https://komarev.com/ghpvc/?username=huyhoanCShcmuit&label=PROFILE+VIEWS&style=flat-square&color=fabd2f" alt="huyhoanCShcmuit" />
 </div>
 
 <br/>
@@ -63,7 +63,7 @@
 <h3 align="center">🏆 Achievements & Statistics</h3>
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huyhoanFithcmus&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huyhoanCShcmuit&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="streak graph" />
 
 </div>
   
@@ -72,10 +72,10 @@
   <table style="width: 90%;">
     <tr>
       <td style="width: 50%;" align="center" valign="top">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=huyhoanFithcmus&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0d1117&count_private=true" alt="stats" style="width:100%;" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=huyhoanCShcmuit&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0d1117&count_private=true" alt="stats" style="width:100%;" />
       </td>
       <td style="width: 50%;" align="center" valign="top">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huyhoanFithcmus&layout=compact&theme=gruvbox&hide_border=true&bg_color=0d1117&langs_count=8" alt="langs" style="width:100%;" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huyhoanCShcmuit&layout=compact&theme=gruvbox&hide_border=true&bg_color=0d1117&langs_count=8" alt="langs" style="width:100%;" />
       </td>
     </tr>
   </table>
